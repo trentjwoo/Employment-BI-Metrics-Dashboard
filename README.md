@@ -15,7 +15,7 @@ This dashboard visualises historical employment figures sourced from the Austral
 
 ## Screenshots
 
-![Employment Data Dashboard overview](./Powerbi.png)
+![Employment Data Dashboard overview](./PowerbI.png)
 *KPI cards, industry trend lines, and the underlying data table*
 
 ![Industry composition breakdown](./Powerbi2.png)
